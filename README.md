@@ -22,8 +22,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <br />
-
-
+<br />
 
 <img align="left" alt="Jhonegao Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jhonegao&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
 
