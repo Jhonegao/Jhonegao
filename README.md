@@ -8,10 +8,6 @@
 - 🖤 <a href="https://facebook.com/jhonatasimonetto">Facebook</a>
 - 💜 <a href="https://twitch.tv/jhonegao/about">Twitch</a> *-Eventually i do some coding lives, also playng games (PT-BR/EN)*
 
- 🌱 ***I’m currently learning more about C# and some FrontEnd Stuffs***
- 
- --- 
-
 ### Languages and Tools:
 <img align="left" alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2018/11/vsplogo.png" />
 <img align="left" alt="dotNetCore" width="26px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />
@@ -26,8 +22,8 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <br />
-<br />
 
+ --- 
 <img align="left" alt="Jhonegao Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jhonegao&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
 
 
